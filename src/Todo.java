@@ -15,6 +15,8 @@ Tasks:
 8.  complete PolyLine constructor
 9.  complete RightTriangle constructor
 10. complete IsoscelesTriangle constructor
+11. complete Rectangle constructor
+12. complete Square constructor
 
 Estimated Time (minutes):
 1.  3
@@ -27,6 +29,7 @@ Estimated Time (minutes):
 8.  10
 9.  8
 10. 10
+11. 7
 
 Actual Time (minutes):
 1.  2
