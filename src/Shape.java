@@ -1,3 +1,5 @@
+import java.awt.Color;
+import java.awt.Point;
 /**
  * Abstract class to represent a shape
  * 
@@ -45,5 +47,7 @@ public abstract class Shape implements Drawable {
 	 */
 	public Point[] getLocation() {
 		return location;
-	}	
+	}
+	
+	 
 }

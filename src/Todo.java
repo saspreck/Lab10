@@ -12,6 +12,7 @@ Tasks:
 5.  complete Drawable interface
 6.  complete Polygon constructor
 7.  complete Polygon draw method
+8.  complete PolyLine constructor
 
 Estimated Time (minutes):
 1.  3
@@ -21,13 +22,15 @@ Estimated Time (minutes):
 5.  10
 6.  6
 7.  3
+8.  10
 
 Actual Time (minutes):
 1.  2
 2.  2
 3.  3
 4.  1
-5.  
+5.  4
 6.  3
 7.  
+8.  10
 */}
