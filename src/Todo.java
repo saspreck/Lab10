@@ -17,6 +17,10 @@ Tasks:
 10. complete IsoscelesTriangle constructor
 11. complete Rectangle constructor
 12. complete Square constructor
+13. complete Oval constructor
+14. complete DrawPanel addShape method
+15. complete DrawPanel paintComponent method
+16. create DrawFrame constructor
 
 Estimated Time (minutes):
 1.  3
@@ -25,11 +29,13 @@ Estimated Time (minutes):
 4.  1
 5.  10
 6.  6
-7.  3
-8.  10
-9.  8
-10. 10
-11. 7
+7.  10
+8.  8
+9.  10
+10. 7
+11. 5
+12. 4
+13. 5
 
 Actual Time (minutes):
 1.  2
@@ -37,9 +43,13 @@ Actual Time (minutes):
 3.  3
 4.  1
 5.  4
-6.  3
-7.  
+6.  3  
+7.  10
 8.  10
-9.  10
-10. 7
+9.  7
+10. 6
+11. 3
+12. 3
+13. 2
+ 
 */}

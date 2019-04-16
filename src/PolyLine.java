@@ -10,9 +10,9 @@ public class PolyLine extends Polygon{
 		location[0] = pointUL;
 		location[1] = pointUR;
 		
-		location[2] = new Point((int) pointUL.x, (int) pointUL.y + thickness); 
+		location[2] = new Point((int) pointUR.x, (int) pointUR.y + thickness); 
 		
-		location[3] = new Point((int) pointUR.x, (int) pointUR.y + thickness);
+		location[3] = new Point((int) pointUL.x, (int) pointUL.y + thickness);
 	}
 
 }
