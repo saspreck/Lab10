@@ -3,6 +3,12 @@ import java.awt.Point;
 import org.junit.Test;
 import org.junit.Assert;
 
+/**
+ * Test cases for the Rectangle and Square
+ * @author skylersprecker
+ * @version 2019-04-16
+ *
+ */
 public class RectangleTest {
 	
 	private Rectangle rect1 = new Rectangle(new Point(200, 300), 100, 200, Color.GREEN, true);
@@ -11,6 +17,9 @@ public class RectangleTest {
 	private Square sqr1 = new Square(new Point(100, 200), 150, Color.BLUE, true);
 	private Square sqr2 = new Square(new Point(100, 200), 200, Color.GRAY, false);
 	
+	/**
+	 * Tests the number of points, the location, the color, and the fill for each shape
+	 */
 	@Test
 	public void testRectangleConstructor() {
 	

@@ -3,6 +3,12 @@ import java.awt.Point;
 import org.junit.Test;
 import org.junit.Assert;
 
+/**
+ * Test cases for the Right and Isosceles Triangles
+ * @author skylersprecker
+ * @version 2019-04-16
+ *
+ */
 public class TriangleTest {
 	
 	RightTriangle rt1 = new RightTriangle(new Point(100, 200), 100, 200, Color.BLACK, true);
@@ -11,6 +17,9 @@ public class TriangleTest {
 	IsoscelesTriangle it1 = new IsoscelesTriangle(new Point(100, 200), 100, 200, Color.RED, true);
 	IsoscelesTriangle it2 = new IsoscelesTriangle(new Point(100, 200), 200, 400, Color.MAGENTA, false);
 	
+	/**
+	 * Tests the number of points, the location, the color, and the fill
+	 */
 	@Test
 	public void testTriangleConstructor() {
 		// Verify the quantity of points for each shape
